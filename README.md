@@ -15,4 +15,19 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404708.
 Two files:
 
 - The raw data in the form of Excel (LOL)
+
+  This conatains the ETF prices from Yahoo Finance. Tracking error and std are calculated under this file.  
+
 - Results and conclusions in the .pdf file
+
+A lot thanks to Bill Xu, who gathered all the necessary Expanse Ratio (f). 
+
+## Open Question
+
+In this project, we used the discrete time model, which means that the instantaneous volatility is calculated from the variance 5-day returns. However, the accuracy of the path-dependence model can be improved by using a continuous way to calculate the instantaneous volatility. 
+
+Some suggestions can be found here. 
+
+[1] Oleh Danyliv and Bruce Bland. An Instantaneous Market Volatility Estima- tion. SSRN, 2019. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3434093
+
+Or simply by Googling "instantaneous volatility". 
