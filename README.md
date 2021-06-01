@@ -18,11 +18,11 @@ Two files:
 
 - The raw data in the form of Excel (LOL)
 
-  This conatains the ETF prices from Yahoo Finance. Tracking error and std are calculated under this file.  
+  This contains the ETF prices from Yahoo Finance. Tracking errors and stds are calculated under this file.  
 
 - Results and conclusions in the .pdf file
 
-A lot of thanks to Bill Xu, who gathered all the necessary Expanse Ratio (f) and correct my mistakes!!! 
+A lot of thanks to my classmate Bill Xu, who gathered all the necessary Expanse Ratio (f) and correct my mistakes!!! 
 
 ## Open Question
 
