@@ -27,7 +27,7 @@ A lot of thanks to my classmate Bill Xu, who gathered all the necessary Expanse 
 
 ## Open Question
 
-In this project, we used the discrete time model, which means that the instantaneous volatility is calculated from the variance 5-day returns. However, the accuracy of the path-dependence model can be improved by using a continuous way to calculate the instantaneous volatility. 
+In this project, we used the discrete-time model, which means that the instantaneous volatility is calculated from the variance 5-day returns. However, the accuracy of the path-dependence model can be improved by using a continuous way to calculate the instantaneous volatility. 
 
 Some suggestions can be found here. 
 
