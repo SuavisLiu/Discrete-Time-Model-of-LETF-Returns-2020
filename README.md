@@ -20,7 +20,7 @@ Two files:
 
 - Results and conclusions in the .pdf file
 
-A lot thanks to Bill Xu, who gathered all the necessary Expanse Ratio (f). 
+A lot of thanks to Bill Xu, who gathered all the necessary Expanse Ratio (f) and correct my mistakes!!! 
 
 ## Open Question
 
