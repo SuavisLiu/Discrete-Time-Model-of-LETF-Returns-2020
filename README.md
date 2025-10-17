@@ -17,7 +17,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1404708.
 
 Two files:
 
-- The raw data in the form of Excel (LOL)
+- The raw data
 
   This contains the ETF prices from Yahoo Finance. Tracking errors and stds are calculated under this file.  
 
